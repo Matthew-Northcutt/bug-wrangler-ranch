@@ -1,20 +1,20 @@
 const database = {
     cattleTypes: [
         {
-            id: 1,
-            breed: "American Angus"
+            "id": 1,
+            "breed": "American Angus"
         },
         {
-            id: 2,
-            breed: "Brown Swiss"
+            "id": 2,
+            "breed": "Brown Swiss"
         },
         {
-            id: 3,
-            breed: "Ankina"
+            "id": 3,
+            "breed": "Ankina"
         },
         {
-            id: 4,
-            breed: "Ankole-Watusi"
+            "id": 4,
+            "breed": "Ankole-Watusi"
         }
     ],
     drovers: [{
